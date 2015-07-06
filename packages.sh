@@ -1,1 +1,1 @@
-dpkg-deb -b Dickbutt
+dpkg-deb -Zgzip -b Dickbutt
