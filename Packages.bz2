@@ -3,9 +3,9 @@ Version: 1.0
 Section: Zeppelin Logos
 Maintainer: John Cintron <squash@shadowfall.me>
 Architecture: iphoneos-arm
-Filename: ./debs/Dickbutt.deb
+Filename: ./Dickbutt.deb
 Size: 4264
-MD5sum: 43703b694c25ed90984672e74ef8db22
+MD5sum: 3048861190c9f1d8fd2142cc4c7a3b1e
 Description: DickButt Zeppelin Logo for All!!
 Name: DickButt Zeppelin Logo
 Author: John Cintron <squash@shadowfall.me>
