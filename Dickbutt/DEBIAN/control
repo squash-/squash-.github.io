@@ -3,7 +3,13 @@ Name: DickButt Zeppelin Logo
 Version: 1.0
 Architecture: iphoneos-arm
 Description: DickButt Zeppelin Logo for All!!
-Homepage: http://squash-.github.com
+#Icon:
+Homepage: http://squash-.github.io
+#Depiction:
 Maintainer: John Cintron <squash@shadowfall.me>
 Author: John Cintron <squash@shadowfall.me>
 Section: Zeppelin Logos
+Depends: com.alexzielenski.zeppelin
+#Replaces:
+#Conflict:
+
