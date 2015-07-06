@@ -1,2 +1,2 @@
-rm -r *.deb
-rm -r Packages.bz2
+rm debs/*.deb
+rm Packages.bz2
