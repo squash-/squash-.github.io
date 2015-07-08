@@ -8,7 +8,7 @@ Homepage: http://squash-.github.io
 #Depiction:
 Maintainer: John Cintron <squash@shadowfall.me>
 Author: John Cintron <squash@shadowfall.me>
-Section: Themes
+Section: Themes (LockScreen)
 Depends: com.evilgoldfish.lockglyph
 #Replaces:
 #Conflict:
