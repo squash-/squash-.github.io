@@ -1,0 +1,15 @@
+Package: me.shadowfall.dickbuttlockglyph
+Name: DickButt LockGlyph Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: DickButt LockGlyph for All!!
+#Icon:
+Homepage: http://squash-.github.io
+#Depiction:
+Maintainer: John Cintron <squash@shadowfall.me>
+Author: John Cintron <squash@shadowfall.me>
+Section: Themes
+Depends: com.evilgoldfish.lockglyph
+#Replaces:
+#Conflict:
+
